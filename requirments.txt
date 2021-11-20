@@ -1,5 +1,6 @@
 conda==4.10.3
 conda-build==3.18.11
+conda-package-handling==1.7.0
 imageio==2.9.0
 imagesize==1.2.0
 importlib-metadata==1.7.0
@@ -14,7 +15,9 @@ jupyterlab==2.1.5
 jupyterlab-server==1.2.0
 matplotlib==3.2.2
 notebook==6.0.3
-numpy==1.18.5
+numba==0.50.1
+numexpr==2.7.1
+numpy==1.21.4
 numpydoc==1.1.0
 octave-kernel==0.32.0
 opencv-python==4.5.4.58
@@ -27,3 +30,4 @@ scikit-learn==0.23.1
 scipy==1.5.0
 seaborn==0.10.1
 widgetsnbextension==3.5.1
+
